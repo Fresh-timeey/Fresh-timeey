@@ -15,10 +15,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Developer;Neural+Networks+%26+ML+Enthusiast;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Building+things+that+last.)](https://git.io/typing-svg)
 
-</div>
-
----
-
 ## ⚡ Tech Stack
 
 <div align="center">
