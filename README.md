@@ -13,23 +13,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fresh-timeey&theme=default)
 
 
-<div align="center">
-
-```
-██╗    ██╗ ██████╗ ██████╗ ██████╗ ██╗   ██╗    ███████╗██████╗ ███████╗███████╗
-██║    ██║██╔═══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝    ██╔════╝██╔══██╗██╔════╝██╔════╝
-██║ █╗ ██║██║   ██║██████╔╝██████╔╝ ╚████╔╝     █████╗  ██████╔╝█████╗  █████╗  
-██║███╗██║██║   ██║██╔══██╗██╔══██╗  ╚██╔╝      ██╔══╝  ██╔══██╗██╔══╝  ██╔══╝  
-╚███╔███╔╝╚██████╔╝██║  ██║██║  ██║   ██║       ██║     ██║  ██║███████╗███████╗
- ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
-```
-
-### Worry-free.
-### Free of regrets.
-### And therefore — **Deprived of rivals.**
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Developer;Neural+Networks+%26+ML+Enthusiast;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Building+things+that+last.)](https://git.io/typing-svg)
 
 </div>
@@ -56,19 +39,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Fresh-timeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fresh-timeey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fresh-timeey&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF)
-
-</div>
-
----
 
 <div align="center">
 
