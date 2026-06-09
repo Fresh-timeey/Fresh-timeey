@@ -3,16 +3,6 @@
 ### And therefore... Deprived of rivals!
 .
 .
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-----------------------------------------------------
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fresh-timeey&theme=default)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Developer;Neural+Networks+%26+ML+Enthusiast;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Building+things+that+last.)](https://git.io/typing-svg)
 
 ## ⚡ Tech Stack
